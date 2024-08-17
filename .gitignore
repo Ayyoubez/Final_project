@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js
+node_modules/
+
+# Django
+*.sqlite3
+
+# OS-generated files
+.DS_Store
